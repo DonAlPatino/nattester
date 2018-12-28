@@ -1,0 +1,1 @@
+D:\java\nattester>javac -d bin -classpath d:\java\nattester\ice4j-1.0.jar NatTester.java

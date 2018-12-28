@@ -1,0 +1,1 @@
+java -classpath .;d:\java\nattester\ice4j-1.0.jar NatTester
